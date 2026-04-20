@@ -1,0 +1,21 @@
+FILE NAME                IC #  TANDY PART#  SUM16  CRC32     IC TYPE  DESCRIPTION
+---------------------------------------------------------------------------------------------------------------
+m2-16_U11_[C8FF].rom     U11   8043216      C8FF   7017A373  2716     Model II/16 Boot ROM (Revision A)
+m2-16_U11_[2BFF].rom     U11   8047316      2BFF   C6C71D0B  2716     Model II/16 Boot ROM (Revision C)
+m12-16b_U9_[D0B2].rom    U9    8043316      D0B2   04425B03  2716     Model 12/16B Char Gen (Green Board)
+m2_U11_[1BBE].rom        U11   8040216*     1BBE   8BDCEEA7  2716     Early Model II Boot ROM (Ver 1.1)
+m2_U11_[2119].rom        U11   8040216*     2119   7A663049  2716     Early Model II Boot ROM (Ver 1.2)
+m12_U54_[9733].rom       U54   8041216      9733   823924B1  2716     Model 12/16B Z80 Boot ROM
+m16_U11_[9733].rom       U11   8041216      9733   823924B1  2716     Model 12/16B Z80 Boot ROM
+m12_U53_[FC86].rom       U53   8040128      FC86   1B66D4E5  2716     Model II/16 Char Gen (Original Board)
+(ref only)               U10   8049001      4E11   B6E2C6A9  2732     Model 16 68000 Boot ROM (68K Board)
+(ref only)               U10   8049002      7A02   4F5F58D1  2732     Model 16B/60 68K Boot ROM (Integrated)
+
+NOTE: These have the .rom extansion but they are .bin files.
+
+NOTE: Part number 8040216 (*) serves as a generic base ID for early
+Model II firmware revisions. Physical chips may be stamped with
+internal version codes (1.1, 1.2) or SCM-series mask ROM numbers.
+Later part numbers (8043216/8047316) represent specific, verified
+functional upgrades for hard drive and high-density disk support.
+

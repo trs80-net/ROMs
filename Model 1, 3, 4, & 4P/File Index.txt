@@ -1,0 +1,61 @@
+TRS-80 MODEL I ROMS
+FILE NAME                     IC#  TANDY PART#  SUM16  CRC32     IC TYPE  DESCRIPTION
+---------------------------------------------------------------------------------------------------------------
+(ref only)                    U6   unknown      5A51   unknown   2316      Model I Level I BASIC ROM A (Version 1)
+(ref only)                    U7   unknown      9F9A   unknown   2316      Model I Level I BASIC ROM B (Version 1)
+
+m1_U6-7_[50DC 99C2].rom       U6   unknown      5D0C   unknown   2316      Model I Level I BASIC ROM A (Alt Version)
+          "                   U7   unknown      99C2   unknown   2316      Model I Level I BASIC ROM B (Alt Version)
+
+
+(ref only)                    U6   unknown      AE5D   unknown   2332/2732 Model I Level II BASIC ROM A (v1.0)
+(ref only)                    U7   unknown      DA84   unknown   2332/2732 Model I Level II BASIC ROM B (v1.0)
+(ref only)                    U8   unknown      4002   unknown   2332/2732 Model I Level II BASIC ROM C (v1.0)
+
+(ref only)                    U6   unknown      AE60   unknown   2332/2732 Model I Level II BASIC ROM A (v1.1)
+(ref only)                    U7   unknown      DA45   unknown   2332/2732 Model I Level II BASIC ROM B (v1.1)
+(ref only)                    U8   unknown      3E3E   unknown   2332/2732 Model I Level II BASIC ROM C (v1.1)
+
+(ref only)                    U6   unknown      AE60   unknown   2332/2732 Model I Level II BASIC ROM A (v1.1 alt set)
+(ref only)                    U7   unknown      DA45   unknown   2332/2732 Model I Level II BASIC ROM B (v1.1 alt set)
+(ref only)                    U8   unknown      40E0   unknown   2332/2732 Model I Level II BASIC ROM C (v1.1 alt set)
+
+(ref only)                    U6   unknown      AD8C   unknown   2332/2732 Model I Level II BASIC ROM A (v1.2 BAD - patched delays/memory test)
+(ref only)                    U7   unknown      DA45   unknown   2332/2732 Model I Level II BASIC ROM B (v1.2 BAD)
+(ref only)                    U8   unknown      40BA   unknown   2332/2732 Model I Level II BASIC ROM C (v1.2 BAD)
+
+m1_U6-8_[AE60 DA45 40BA].rom  U6   unknown      AE60   unknown   2332/2732 Model I Level II BASIC ROM A (v1.2)
+          "                   U7   unknown      DA45   unknown   2332/2732 Model I Level II BASIC ROM B (v1.2)
+          "                   U8   unknown      40BA   unknown   2332/2732 Model I Level II BASIC ROM C (v1.2)
+
+(ref only)                    U6   unknown      AED7   unknown   2332/2732 Model I Level II BASIC ROM A (v1.3 BAD - incorrect JP/JR handling)
+(ref only)                    U7   unknown      DA45   unknown   2332/2732 Model I Level II BASIC ROM B (v1.3 BAD)
+(ref only)                    U8   unknown      4006   unknown   2332/2732 Model I Level II BASIC ROM C (v1.3 BAD)
+
+(ref only)                    U6   unknown      B078   unknown   2332/2732 Model I Level II BASIC ROM A (v1.3)
+(ref only)                    U7   unknown      DA45   unknown   2332/2732 Model I Level II BASIC ROM B (v1.3)
+(ref only)                    U8   unknown      4006   unknown   2332/2732 Model I Level II BASIC ROM C (v1.3)
+
+
+TRS-80 MODEL III ROMS
+FILE NAME                          IC #  TANDY PART#  SUM16  CRC32     IC TYPE  DESCRIPTION
+---------------------------------------------------------------------------------------------------------------
+m3_U4-7_[BBC4 DA75 407C 30F6].rom  U4    unknown      BBC4   BDDBF843  2732     Model III Low ROM (Boot / Init)
+               "                   U5    unknown      DA75   BDDBF843  2732     Model III BASIC ROM (Part 1)
+               "                   U6    unknown      407C   BDDBF843  2732     Model III BASIC ROM (Part 2 / I/O)
+               "                   U7    unknown      30F6   BDDBF843  2716     Model III High ROM (System / Boot Extensions)
+
+
+TRS-80 MODEL 4 ROMS
+FILE NAME                          IC #  TANDY PART#  SUM16  CRC32     IC TYPE  DESCRIPTION
+---------------------------------------------------------------------------------------------------------------
+m4_U4-7_[BBC4 DA75 407C 178F].rom  U4    unknown      BBC4   1A92D54D  2732     Model 4 Low ROM (Boot / Init, same as Model III)
+               "                   U5    unknown      DA75   1A92D54D  2732     Model 4 BASIC ROM (Part 1, same as Model III)
+               "                   U6    unknown      407C   1A92D54D  2732     Model 4 BASIC ROM (Part 2 / I/O, same as Model III)
+               "                   U7    unknown      178F   1A92D54D  2716     Model 4 High ROM (System / Model 4 Enhancements)
+
+
+TRS-80 MODEL 4P ROMS
+FILE NAME                IC #  TANDY PART#  SUM16  CRC32     IC TYPE  DESCRIPTION
+---------------------------------------------------------------------------------------------------------------
+m4p_U4_[B859].rom        U4    unknown      B859   7FF336F4  27128    Model 4P Boot Stub / Loader (Partial Dump, not full ROM)

@@ -1,0 +1,42 @@
+----------------
+TRS-80 Model 100
+----------------
+Name           CRC16     CRC32     Original ROM                            Y2K-patched
+US             34F5      730a3611  File:TRS-80 Model 100.orig.bin          File:TRS-80 Model 100.y2k.bin
+LibROM-1.1a    60F0      ad1ee50b  File:TRS-80 Model 100.LibROM-1.1a.bin   (Not applicable)
+
+
+----------------
+Tandy 102
+----------------
+Name      CRC16     CRC32     Original ROM                       Y2K-patched
+US        1C6F      08e9f89c  File:TANDY Model 102.us.orig.bin   File:TANDY Model 102.us.y2k.bin
+UK        5CF0      20a6dd54  File:TANDY Model 102.uk.orig.bin   File:TANDY Model 102.uk.y2k.bin
+
+
+----------------
+Tandy 200
+----------------
+The Tandy 200 system ROM spans 3 chips, 32k at M15, 8k at M13, and 32k at M14 (Multiplan).
+Name CRC16     CRC32     Original 32K ROM              Y2K-patched 32K ROM
+US   9535      d0c56acf  File:Tandy 200.M15.orig.bin   File:Tandy 200.M15.y2k.bin
+
+Name CRC16     CRC32     Original 8K ROM
+US   3D1A      03a320c2  File:Tandy 200.M13.orig.bin
+
+M14 is not the Option ROM, but is bank selected in the same way.
+Name CRC16     CRC32     Original 32K ROM
+US   958C      0a0da302  File:Tandy 200.M14.orig.bin
+
+Emulators such as Virtual-T sometimes use a single file which contains a concatenation of M15, M13, and M14, in that order.
+Name CRC16     CRC32     Original 72K ROM              Y2K patched 72K ROM
+US   C061      8fdbb58c  File:Tandy 200.us.orig.bin    File:Tandy 200.us.y2k.bin
+
+
+----------------
+TANDY Model 600
+----------------
+The Tandy 600 had BASIC as an optional ROM (RS Catalog #26-3904) instead of in the System ROM.
+Name      CRC-16    CRC32     ROM
+System    -         -         -
+BASIC     A2B3      7e952856  File:TANDY 600 BASIC.bin
