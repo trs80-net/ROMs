@@ -11,42 +11,42 @@ extbas11.rom             MAIN      U15   8041364      40AC   A82A6254  2364     
 TRS-80 COLOR COMPUTER 2 (CoCo 2)
 FILE NAME                LOCATION  IC #  TANDY PART#  SUM16  CRC32     IC TYPE  DESCRIPTION
 ---------------------------------------------------------------------------------------------------------------
-bas13.rom         MAIN      U12   8040364-1    AD56   D8F4D15E  2364     Color BASIC v1.3
+bas13.rom                MAIN      U12   8040364-1    AD56   D8F4D15E  2364     Color BASIC v1.3
 extbas11.rom             MAIN      U13   8041364      40AC   A82A6254  2364     Extended Color BASIC
 
 
 TRS-80 COLOR COMPUTER 3 (CoCo 3)
 FILE NAME                LOCATION  IC #  TANDY PART#  SUM16  CRC32     IC TYPE  DESCRIPTION
 ---------------------------------------------------------------------------------------------------------------
-coco3.rom          MAIN      IC2   8044332      B862   B4C88D6C  27256    CoCo 3 Unified ROM
-coco3p.rom        MAIN      IC2   8044332      23BE   FF050D80  27256    CoCo 3 Unified ROM (alt)
+coco3.rom                MAIN      IC2   8044332      B862   B4C88D6C  27256    CoCo 3 Unified ROM
+coco3p.rom               MAIN      IC2   8044332      23BE   FF050D80  27256    CoCo 3 Unified ROM (alt)
 
 
 DISK CONTROLLER (CARTRIDGE ROMS - fdc/)
 FILE NAME                LOCATION  IC #   TANDY PART#  SUM16  CRC32     IC TYPE  DESCRIPTION
 ---------------------------------------------------------------------------------------------------------------
-fdc/disk10.rom           CART      U?     unknown      ????   ????????  2364     Disk BASIC v1.0 (Tandy)
-fdc/disk11.rom           CART      U?     unknown      ????   ????????  2364     Disk BASIC v1.1 (Tandy)
+fdc/disk10.rom           CART      U?     unknown      4585   B4F9968E  2364     Disk BASIC v1.0 (Tandy)
+fdc/disk11.rom           CART      U?     unknown      E038   0B9C5415  2364     Disk BASIC v1.1 (Tandy)
 
 
 THIRD-PARTY DOS (CARTRIDGE ROMS - fdc/)
 FILE NAME                LOCATION  IC #   TANDY PART#  SUM16  CRC32     IC TYPE  DESCRIPTION
 ---------------------------------------------------------------------------------------------------------------
-fdc/ados.rom             CART      U?     n/a          ????   ????????  2364     ADOS v1.x
-fdc/ados2b.rom           CART      U?     n/a          ????   ????????  2364     ADOS v2B
-fdc/ados3.rom            CART      U?     n/a          ????   ????????  2364     ADOS v3.x
-fdc/ados3-40.rom         CART      U?     n/a          ????   ????????  2364     ADOS v3 (40-track)
-fdc/ados3-80.rom         CART      U?     n/a          ????   ????????  2364     ADOS v3 (80-track)
+fdc/ados.rom             CART      U?     unknown      4BB3   24E807CF  2364     ADOS v1.x
+fdc/ados2b.rom           CART      U?     unknown      426C   47A59AD4  2364     ADOS v2B
+fdc/ados3.rom            CART      U?     unknown      52B2   6F824CD1  2364     ADOS v3.x
+fdc/ados3-40.rom         CART      U?     unknown      5294   8AFE1A04  2364     ADOS v3 (40-track)
+fdc/ados3-80.rom         CART      U?     unknown      555E   859762F5  2364     ADOS v3 (80-track)
 
 
 ADVANCED / HARD DRIVE DOS (CARTRIDGE ROMS - fdc/)
 FILE NAME                LOCATION  IC #   TANDY PART#  SUM16  CRC32     IC TYPE  DESCRIPTION
 ---------------------------------------------------------------------------------------------------------------
-fdc/hdbdw3bc3.rom        CART      U?     n/a          ????   ????????  2364     HDB-DOS (DriveWire)
-fdc/hdbdw3bck.rom        CART      U?     n/a          ????   ????????  2364     HDB-DOS (alternate)
+fdc/hdbdw3bc3.rom        CART      U?     unknown      DA69   309A9EFD  2364     HDB-DOS (DriveWire)
+fdc/hdbdw3bck.rom        CART      U?     unknown      D69A   867A3F42  2364     HDB-DOS (alternate)
 
 
 OTHER DOS VARIANTS (CARTRIDGE ROMS - fdc/)
 FILE NAME                LOCATION  IC #   TANDY PART#  SUM16  CRC32     IC TYPE  DESCRIPTION
 ---------------------------------------------------------------------------------------------------------------
-fdc/rgbdos_mess.rom      CART      U?     n/a          ????   ????????  2364     RGB-DOS
+fdc/rgbdos_mess.rom      CART      U?     unknown      ED90   0B0E64DB  2364     RGB-DOS
