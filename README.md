@@ -1,6 +1,4 @@
-![TRS-80 ROM Archive](logo.png)
-
-# TRS-80 ROM Archive
+<img src="logo.png" alt="TRS-80 ROM Archive" width="400"><h1>TRS-80 ROM Archive</h1>
 
 A curated collection of ROM dumps for the TRS-80 family of computers, organized, identified, and checksum-verified.
 
